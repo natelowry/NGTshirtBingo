@@ -1,0 +1,11 @@
+﻿body {
+    padding-top: 70px;
+}
+
+.bingo-row {
+    height: 200px;
+}
+
+.bingo-spot {
+    height: 100%;
+}
